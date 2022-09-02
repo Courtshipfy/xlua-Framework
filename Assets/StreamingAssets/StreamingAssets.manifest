@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3714746186
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/main.unity.ab
+      Dependencies: {}
+    Info_1:
+      Name: ui/res/bur.png.ab
+      Dependencies: {}
+    Info_2:
+      Name: ui/res/title_bg_n.png.ab
+      Dependencies: {}
+    Info_3:
+      Name: ui/res/ui_button_green.png.ab
+      Dependencies: {}
+    Info_4:
+      Name: ui/res/ui_button_yello.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: ui/res/ui_close.png.ab
+      Dependencies: {}

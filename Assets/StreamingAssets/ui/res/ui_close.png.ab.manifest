@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 3610209371
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c49b8baedd52b165e2d94578f47445ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/ui_close.png
+Dependencies: []

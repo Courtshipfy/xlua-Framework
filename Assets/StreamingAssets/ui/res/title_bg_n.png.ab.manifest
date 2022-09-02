@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1595787667
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8903db18eb9ef0ca34807dc3f8e11a3e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/title_bg_n.png
+Dependencies: []

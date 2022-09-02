@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 2286905237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6f60943b04d855a531513c7203b9518
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0a6f9ca6de27cedd10f0532db8ca5f17
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/BuildResources/UI/Res/ui_button_yello.png
+Dependencies: []
