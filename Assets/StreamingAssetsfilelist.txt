@@ -1,0 +1,8 @@
+Assets/BuildResources/Scene\Main.unity|scene/main.unity|Assets/BuildResources/Scene/Main.unity
+Assets/BuildResources/UI\Prefabs\Button.prefab|ui/prefabs/button.prefab|Assets/BuildResources/UI/Prefabs/Button.prefab|Assets/BuildResources/UI/Res/title_bg_n.png
+Assets/BuildResources/UI\Prefabs\Canvas.prefab|ui/prefabs/canvas.prefab|Assets/BuildResources/UI/Res/title_bg_n.png|Assets/BuildResources/UI/Prefabs/Canvas.prefab
+Assets/BuildResources/UI\Res\BUR.png|ui/res/bur.png|Assets/BuildResources/UI/Res/BUR.png
+Assets/BuildResources/UI\Res\title_bg_n.png|ui/res/title_bg_n.png|Assets/BuildResources/UI/Res/title_bg_n.png
+Assets/BuildResources/UI\Res\ui_button_green.png|ui/res/ui_button_green.png|Assets/BuildResources/UI/Res/ui_button_green.png
+Assets/BuildResources/UI\Res\ui_button_yello.png|ui/res/ui_button_yello.png|Assets/BuildResources/UI/Res/ui_button_yello.png
+Assets/BuildResources/UI\Res\ui_close.png|ui/res/ui_close.png|Assets/BuildResources/UI/Res/ui_close.png
